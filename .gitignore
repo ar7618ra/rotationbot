@@ -1,0 +1,8 @@
+*
+!/RotationBot/
+!/Interface/
+/Interface/*
+!/Interface/AddOns/
+/Interface/AddOns/*
+!/Interface/AddOns/FrostmourneRotation/
+!.gitignore
