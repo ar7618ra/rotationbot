@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: FrostmourneRotation
+## Notes: Warlock PQR-style rotation helper
+## Author: Cascade
+## SavedVariables: FrostmourneRotationDB
+
+FrostmourneRotation.lua
